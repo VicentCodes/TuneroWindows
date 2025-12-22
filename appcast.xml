@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Mi App Flutter</title>
+        <item>
+            <title>Versión 1.0.0</title>
+            <pubDate>Mon, 22 Dec 2025 12:00:00 +0000</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <description>Versión inicial</description>
+            <enclosure url="LINK_PENDIENTE" sparkle:version="1.0.0" sparkle:os="windows" length="0" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
