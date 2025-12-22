@@ -3,7 +3,7 @@
     <channel>
         <title>Tunero App</title>
         <item>
-            <title>Versión 1.1.2</title>
+            <title>Versión 1.1.3</title>
             <pubDate>Mon, 22 Dec 2025 15:00:00 +0000</pubDate>
             
             <sparkle:version>1.1.2</sparkle:version>
@@ -12,15 +12,15 @@
                 <![CDATA[
                   <ul>
                     <li>Solución definitiva al bucle de actualización.</li>
-                    <li>Versión sincronizada 1.1.2.</li>
+                    <li>Versión sincronizada 1.1.3.</li>
                   </ul>
                 ]]>
             </description>
             
-            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.2/tunero_setup_v1.1.2.exe" 
-                       sparkle:version="1.1.2" 
+            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.3/tunero_setup_v1.1.3.exe" 
+                       sparkle:version="1.1.3" 
                        sparkle:os="windows" 
-                       length="35532220" 
+                       length="35526792" 
                        type="application/octet-stream"/>
         </item>
     </channel>
