@@ -6,7 +6,7 @@
             <title>Versión 1.1.4</title>
             <pubDate>Mon, 22 Dec 2025 15:00:00 +0000</pubDate>
             
-            <sparkle:version>1.1.7</sparkle:version>
+            <sparkle:version>1.1.8</sparkle:version>
             
             <description>
                 <![CDATA[
@@ -17,10 +17,10 @@
                 ]]>
             </description>
             
-            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.7/tunero_setup_v1.1.7.exe" 
+            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.8/tunero_setup_v1.1.8.exe" 
                        sparkle:version="1.1.4" 
                        sparkle:os="windows" 
-                       length="35503700" 
+                       length="35488729" 
                        type="application/octet-stream"/>
         </item>
     </channel>
