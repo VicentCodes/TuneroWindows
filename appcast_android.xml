@@ -8,20 +8,20 @@ $Contenido = @"
     <channel>
         <title>Tunero App Android</title>
         <item>
-            <title>Version 1.1.42</title>
-            <pubDate>Tue, 27 Jan 2026 16:53:57 GMT</pubDate>
-            <sparkle:version>1.1.42</sparkle:version>
+            <title>Version 1.1.43</title>
+            <pubDate>Tue, 27 Jan 2026 19:11:52 GMT</pubDate>
+            <sparkle:version>1.1.43</sparkle:version>
             <description>
                 <![CDATA[
                   <ul>
-                    <li>DEMO v3</li>
+                    <li>DEMO V4</li>
                   </ul>
                 ]]>
             </description>
-            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.42/tunero_android_v1.1.42.apk" 
-                       sparkle:version="1.1.42" 
+            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.43/tunero_android_v1.1.43.apk" 
+                       sparkle:version="1.1.43" 
                        sparkle:os="android" 
-                       length="101027507" 
+                       length="100994667" 
                        type="application/vnd.android.package-archive"/>
         </item>
     </channel>
