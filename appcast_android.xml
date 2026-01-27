@@ -8,9 +8,9 @@ $Contenido = @"
     <channel>
         <title>Tunero App Android</title>
         <item>
-            <title>Version 1.1.41</title>
-            <pubDate>Tue, 27 Jan 2026 16:24:38 GMT</pubDate>
-            <sparkle:version>1.1.41</sparkle:version>
+            <title>Version 1.1.42</title>
+            <pubDate>Tue, 27 Jan 2026 16:53:57 GMT</pubDate>
+            <sparkle:version>1.1.42</sparkle:version>
             <description>
                 <![CDATA[
                   <ul>
@@ -18,10 +18,10 @@ $Contenido = @"
                   </ul>
                 ]]>
             </description>
-            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.41/tunero_android_v1.1.41.apk" 
-                       sparkle:version="1.1.41" 
+            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.42/tunero_android_v1.1.42.apk" 
+                       sparkle:version="1.1.42" 
                        sparkle:os="android" 
-                       length="101027771" 
+                       length="101027507" 
                        type="application/vnd.android.package-archive"/>
         </item>
     </channel>
