@@ -4,22 +4,22 @@
         <title>Tunero App</title>
         <item>
             <title>VersiÃ³n 1.1.4</title>
-            <pubDate>Thu, 12 Feb 2026 23:48:07 GMT</pubDate>
+            <pubDate>Fri, 13 Feb 2026 00:03:16 GMT</pubDate>
             
-            <sparkle:version>1.1.61</sparkle:version>
+            <sparkle:version>1.1.62</sparkle:version>
             
             <description>
                 <![CDATA[
                   <ul>
-                    <li>update3</li>
+                    <li>update3</li><li>pruebas </li><li>test</li>
                   </ul>
                 ]]>
             </description>
             
-            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.61/tunero_setup_v1.1.61.exe" 
-                       sparkle:version="1.1.61" 
+            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.62/tunero_setup_v1.1.62.exe" 
+                       sparkle:version="1.1.62" 
                        sparkle:os="windows" 
-                       length="50046179" 
+                       length="50351019" 
                        type="application/octet-stream"/>
         </item>
     </channel>
