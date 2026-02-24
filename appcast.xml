@@ -4,22 +4,22 @@
         <title>Tunero App</title>
         <item>
             <title>VersiÃ³n 1.1.4</title>
-            <pubDate>Fri, 13 Feb 2026 23:49:48 GMT</pubDate>
+            <pubDate>Tue, 24 Feb 2026 14:56:57 GMT</pubDate>
             
-            <sparkle:version>1.1.71</sparkle:version>
+            <sparkle:version>1.1.72</sparkle:version>
             
             <description>
                 <![CDATA[
                   <ul>
-                    <li>registro de dispositivos tipo kiosko y display</li>
+                    <li>Ultimos cambios al 24/02/2026</li><li>Servicio de qr para vales </li><li>Implementacion del algoritmo</li>
                   </ul>
                 ]]>
             </description>
             
-            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.71/tunero_setup_v1.1.71.exe" 
-                       sparkle:version="1.1.71" 
+            <enclosure url="https://github.com/VicentCodes/TuneroWindows/releases/download/v1.1.72/tunero_setup_v1.1.72.exe" 
+                       sparkle:version="1.1.72" 
                        sparkle:os="windows" 
-                       length="50102433" 
+                       length="50366362" 
                        type="application/octet-stream"/>
         </item>
     </channel>
